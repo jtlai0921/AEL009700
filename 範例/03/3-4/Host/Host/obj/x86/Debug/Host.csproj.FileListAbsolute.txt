@@ -1,0 +1,9 @@
+F:\Book\C# 2010 Network\Source\03\3-4\Host\Host\bin\Debug\Host.exe
+F:\Book\C# 2010 Network\Source\03\3-4\Host\Host\bin\Debug\Host.pdb
+F:\Book\C# 2010 Network\Source\03\3-4\Host\Host\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\03\3-4\Host\Host\obj\x86\Debug\Host.Form1.resources
+F:\Book\C# 2010 Network\Source\03\3-4\Host\Host\obj\x86\Debug\Host.Properties.Resources.resources
+F:\Book\C# 2010 Network\Source\03\3-4\Host\Host\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Book\C# 2010 Network\Source\03\3-4\Host\Host\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Book\C# 2010 Network\Source\03\3-4\Host\Host\obj\x86\Debug\Host.exe
+F:\Book\C# 2010 Network\Source\03\3-4\Host\Host\obj\x86\Debug\Host.pdb

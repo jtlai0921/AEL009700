@@ -1,0 +1,9 @@
+F:\Book\C# 2010 Network\Source\11\11-4\HTTPRequest\HTTPRequest\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\11\11-4\HTTPRequest\HTTPRequest\obj\x86\Debug\HTTPRequest.Properties.Resources.resources
+F:\Book\C# 2010 Network\Source\11\11-4\HTTPRequest\HTTPRequest\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Book\C# 2010 Network\Source\11\11-4\HTTPRequest\HTTPRequest\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Book\C# 2010 Network\Source\11\11-4\HTTPRequest\HTTPRequest\obj\x86\Debug\HTTPRequest.Form1.resources
+F:\Book\C# 2010 Network\Source\11\11-4\HTTPRequest\HTTPRequest\bin\Debug\HTTPRequest.exe
+F:\Book\C# 2010 Network\Source\11\11-4\HTTPRequest\HTTPRequest\bin\Debug\HTTPRequest.pdb
+F:\Book\C# 2010 Network\Source\11\11-4\HTTPRequest\HTTPRequest\obj\x86\Debug\HTTPRequest.exe
+F:\Book\C# 2010 Network\Source\11\11-4\HTTPRequest\HTTPRequest\obj\x86\Debug\HTTPRequest.pdb

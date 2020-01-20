@@ -1,0 +1,5 @@
+F:\Book\C# 2010 Network\Source\15\15-4\RemoteControl\RemoteControl\obj\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\15\15-4\RemoteControl\RemoteControl\bin\Debug\RemoteControl.dll
+F:\Book\C# 2010 Network\Source\15\15-4\RemoteControl\RemoteControl\bin\Debug\RemoteControl.pdb
+F:\Book\C# 2010 Network\Source\15\15-4\RemoteControl\RemoteControl\obj\Debug\RemoteControl.dll
+F:\Book\C# 2010 Network\Source\15\15-4\RemoteControl\RemoteControl\obj\Debug\RemoteControl.pdb

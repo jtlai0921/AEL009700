@@ -1,0 +1,9 @@
+F:\Book\C# 2010 Network\Source\08\8-2\POP3Client\POP3Client\bin\Debug\POP3Client.exe
+F:\Book\C# 2010 Network\Source\08\8-2\POP3Client\POP3Client\bin\Debug\POP3Client.pdb
+F:\Book\C# 2010 Network\Source\08\8-2\POP3Client\POP3Client\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\08\8-2\POP3Client\POP3Client\obj\x86\Debug\POP3Client.Form1.resources
+F:\Book\C# 2010 Network\Source\08\8-2\POP3Client\POP3Client\obj\x86\Debug\POP3Client.Properties.Resources.resources
+F:\Book\C# 2010 Network\Source\08\8-2\POP3Client\POP3Client\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Book\C# 2010 Network\Source\08\8-2\POP3Client\POP3Client\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Book\C# 2010 Network\Source\08\8-2\POP3Client\POP3Client\obj\x86\Debug\POP3Client.exe
+F:\Book\C# 2010 Network\Source\08\8-2\POP3Client\POP3Client\obj\x86\Debug\POP3Client.pdb

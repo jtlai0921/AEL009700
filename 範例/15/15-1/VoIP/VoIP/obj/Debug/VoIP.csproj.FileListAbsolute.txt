@@ -1,0 +1,46 @@
+D:\Book\C# 2008 Network\Source\17\17-1\VoIP\obj\Debug\VoIP.csproj.ResolveComReference.cache
+D:\Book\C# 2008 Network\Source\17\17-1\VoIP\obj\Debug\ResolveAssemblyReference.cache
+D:\Book\C# 2008 Network\Source\17\17-1\VoIP\obj\Debug\VoIP.Form1.resources
+D:\Book\C# 2008 Network\Source\17\17-1\VoIP\obj\Debug\VoIP.Properties.Resources.resources
+D:\Book\C# 2008 Network\Source\17\17-1\VoIP\obj\Debug\VoIP.csproj.GenerateResource.Cache
+D:\Book\C# 2008 Network\Source\17\17-1\VoIP\bin\Debug\VoIP.exe
+D:\Book\C# 2008 Network\Source\17\17-1\VoIP\bin\Debug\VoIP.pdb
+D:\Book\C# 2008 Network\Source\17\17-1\VoIP\bin\Debug\Interop.ATLH323Lib.dll
+D:\Book\C# 2008 Network\Source\17\17-1\VoIP\obj\Debug\Interop.ATLH323Lib.dll
+D:\Book\C# 2008 Network\Source\17\17-1\VoIP\obj\Debug\VoIP.exe
+D:\Book\C# 2008 Network\Source\17\17-1\VoIP\obj\Debug\VoIP.pdb
+F:\Book\C# 2010 Network\Source\15\17-1\VoIP\obj\Debug\VoIP.csproj.ResolveComReference.cache
+F:\Book\C# 2010 Network\Source\15\17-1\VoIP\obj\Debug\VoIP.exe
+F:\Book\C# 2010 Network\Source\15\17-1\VoIP\obj\Debug\VoIP.pdb
+F:\Book\C# 2010 Network\Source\15\17-1\VoIP\obj\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\15\17-1\VoIP\obj\Debug\VoIP.Form1.resources
+F:\Book\C# 2010 Network\Source\15\17-1\VoIP\obj\Debug\VoIP.Properties.Resources.resources
+F:\Book\C# 2010 Network\Source\15\17-1\VoIP\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Book\C# 2010 Network\Source\15\17-1\VoIP\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\17-1\VoIP\obj\Debug\Interop.ATLH323Lib.dll
+K:\17-1\VoIP\obj\Debug\VoIP.csproj.ResolveComReference.cache
+K:\17-1\VoIP\bin\Debug\VoIP.exe
+K:\17-1\VoIP\bin\Debug\VoIP.pdb
+K:\17-1\VoIP\bin\Debug\Interop.ATLH323Lib.dll
+K:\17-1\VoIP\obj\Debug\ResolveAssemblyReference.cache
+K:\17-1\VoIP\obj\Debug\VoIP.Form1.resources
+K:\17-1\VoIP\obj\Debug\VoIP.Properties.Resources.resources
+K:\17-1\VoIP\obj\Debug\GenerateResource-ResGen.read.1.tlog
+K:\17-1\VoIP\obj\Debug\GenerateResource-ResGen.write.1.tlog
+K:\17-1\VoIP\obj\Debug\VoIP.exe
+K:\17-1\VoIP\obj\Debug\VoIP.pdb
+K:\15-1\VoIP\VoIP\obj\Debug\Interop.ATLH323Lib.dll
+K:\15-1\VoIP\VoIP\obj\Debug\VoIP.csproj.ResolveComReference.cache
+K:\15-1\VoIP\VoIP\obj\Debug\VoIP.exe
+K:\15-1\VoIP\VoIP\obj\Debug\VoIP.pdb
+K:\15-1\VoIP\VoIP\bin\Debug\VoIP.exe
+K:\15-1\VoIP\VoIP\bin\Debug\VoIP.pdb
+K:\15-1\VoIP\VoIP\bin\Debug\Interop.ATLH323Lib.dll
+K:\15-1\VoIP\VoIP\obj\Debug\ResolveAssemblyReference.cache
+K:\15-1\VoIP\VoIP\obj\Debug\VoIP.Form1.resources
+K:\15-1\VoIP\VoIP\obj\Debug\VoIP.Properties.Resources.resources
+K:\15-1\VoIP\VoIP\obj\Debug\GenerateResource-ResGen.read.1.tlog
+K:\15-1\VoIP\VoIP\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Book\C# 2010 Network\Source\15\15-1\VoIP\VoIP\obj\Debug\VoIP.csproj.ResolveComReference.cache
+F:\Book\C# 2010 Network\Source\15\15-1\VoIP\VoIP\obj\Debug\VoIP.exe
+F:\Book\C# 2010 Network\Source\15\15-1\VoIP\VoIP\obj\Debug\VoIP.pdb

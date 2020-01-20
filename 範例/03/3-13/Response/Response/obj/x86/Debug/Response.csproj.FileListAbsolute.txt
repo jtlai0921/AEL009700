@@ -1,0 +1,9 @@
+F:\Book\C# 2010 Network\Source\03\3-13\Response\Response\bin\Debug\Response.exe
+F:\Book\C# 2010 Network\Source\03\3-13\Response\Response\bin\Debug\Response.pdb
+F:\Book\C# 2010 Network\Source\03\3-13\Response\Response\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\03\3-13\Response\Response\obj\x86\Debug\Response.Form1.resources
+F:\Book\C# 2010 Network\Source\03\3-13\Response\Response\obj\x86\Debug\Response.Properties.Resources.resources
+F:\Book\C# 2010 Network\Source\03\3-13\Response\Response\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Book\C# 2010 Network\Source\03\3-13\Response\Response\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Book\C# 2010 Network\Source\03\3-13\Response\Response\obj\x86\Debug\Response.exe
+F:\Book\C# 2010 Network\Source\03\3-13\Response\Response\obj\x86\Debug\Response.pdb

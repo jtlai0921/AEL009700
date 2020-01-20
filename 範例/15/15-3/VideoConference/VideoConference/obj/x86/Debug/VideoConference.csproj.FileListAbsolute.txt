@@ -1,0 +1,9 @@
+F:\Book\C# 2010 Network\Source\15\15-3\VideoConference\VideoConference\bin\Debug\VideoConference.exe
+F:\Book\C# 2010 Network\Source\15\15-3\VideoConference\VideoConference\bin\Debug\VideoConference.pdb
+F:\Book\C# 2010 Network\Source\15\15-3\VideoConference\VideoConference\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\15\15-3\VideoConference\VideoConference\obj\x86\Debug\VideoConference.Form1.resources
+F:\Book\C# 2010 Network\Source\15\15-3\VideoConference\VideoConference\obj\x86\Debug\VideoConference.Properties.Resources.resources
+F:\Book\C# 2010 Network\Source\15\15-3\VideoConference\VideoConference\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Book\C# 2010 Network\Source\15\15-3\VideoConference\VideoConference\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Book\C# 2010 Network\Source\15\15-3\VideoConference\VideoConference\obj\x86\Debug\VideoConference.exe
+F:\Book\C# 2010 Network\Source\15\15-3\VideoConference\VideoConference\obj\x86\Debug\VideoConference.pdb

@@ -1,0 +1,10 @@
+F:\Book\C# 2010 Network\Source\14\14-1\NegotiateServer\NegotiateServer\bin\Debug\NegotiateServer.exe
+F:\Book\C# 2010 Network\Source\14\14-1\NegotiateServer\NegotiateServer\bin\Debug\NegotiateServer.pdb
+F:\Book\C# 2010 Network\Source\14\14-1\NegotiateServer\NegotiateServer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\14\14-1\NegotiateServer\NegotiateServer\obj\x86\Debug\NegotiateServer.exe
+F:\Book\C# 2010 Network\Source\14\14-1\NegotiateServer\NegotiateServer\obj\x86\Debug\NegotiateServer.pdb
+F:\Book\C# 2010 Network\Source\14\14-1 - 複製\NegotiateServer\NegotiateServer\obj\x86\Debug\NegotiateServer.exe
+F:\Book\C# 2010 Network\Source\14\14-1 - 複製\NegotiateServer\NegotiateServer\obj\x86\Debug\NegotiateServer.pdb
+F:\Book\C# 2010 Network\Source\14\14-1 - 複製\NegotiateServer\NegotiateServer\bin\Debug\NegotiateServer.exe
+F:\Book\C# 2010 Network\Source\14\14-1 - 複製\NegotiateServer\NegotiateServer\bin\Debug\NegotiateServer.pdb
+F:\Book\C# 2010 Network\Source\14\14-1 - 複製\NegotiateServer\NegotiateServer\obj\x86\Debug\ResolveAssemblyReference.cache

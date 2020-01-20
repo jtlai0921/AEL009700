@@ -1,0 +1,7 @@
+K:\15-1\VoIP\VoIP\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\15-1\VoIP\VoIP\obj\x86\Debug\Interop.ATLH323Lib.dll
+K:\15-1\VoIP\VoIP\obj\x86\Debug\VoIP.csproj.ResolveComReference.cache
+K:\15-1\VoIP\VoIP\obj\x86\Debug\VoIP.Form1.resources
+K:\15-1\VoIP\VoIP\obj\x86\Debug\VoIP.Properties.Resources.resources
+K:\15-1\VoIP\VoIP\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\15-1\VoIP\VoIP\obj\x86\Debug\GenerateResource.write.1.tlog

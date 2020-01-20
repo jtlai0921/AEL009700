@@ -1,0 +1,11 @@
+F:\Book\C# 2010 Network\Source\10\10-3\FTPClient\FTPClient\bin\Debug\FTPClient.exe
+F:\Book\C# 2010 Network\Source\10\10-3\FTPClient\FTPClient\bin\Debug\FTPClient.pdb
+F:\Book\C# 2010 Network\Source\10\10-3\FTPClient\FTPClient\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\10\10-3\FTPClient\FTPClient\obj\x86\Debug\FTPClient.exe
+F:\Book\C# 2010 Network\Source\10\10-3\FTPClient\FTPClient\obj\x86\Debug\FTPClient.pdb
+F:\Book\C# 2010 Network\Source\10\10-4\FTPClient\FTPClient\obj\x86\Debug\FTPClient.exe
+F:\Book\C# 2010 Network\Source\10\10-4\FTPClient\FTPClient\obj\x86\Debug\FTPClient.pdb
+F:\Book\C# 2010 Network\Source\10\10-4\FTPClient\FTPClient\bin\Debug\FTPClient.exe.config
+F:\Book\C# 2010 Network\Source\10\10-4\FTPClient\FTPClient\bin\Debug\FTPClient.exe
+F:\Book\C# 2010 Network\Source\10\10-4\FTPClient\FTPClient\bin\Debug\FTPClient.pdb
+F:\Book\C# 2010 Network\Source\10\10-4\FTPClient\FTPClient\obj\x86\Debug\ResolveAssemblyReference.cache

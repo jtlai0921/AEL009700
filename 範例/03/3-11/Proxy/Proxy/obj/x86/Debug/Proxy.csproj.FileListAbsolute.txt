@@ -1,0 +1,9 @@
+F:\Book\C# 2010 Network\Source\03\3-11\Proxy\Proxy\bin\Debug\Proxy.exe
+F:\Book\C# 2010 Network\Source\03\3-11\Proxy\Proxy\bin\Debug\Proxy.pdb
+F:\Book\C# 2010 Network\Source\03\3-11\Proxy\Proxy\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\03\3-11\Proxy\Proxy\obj\x86\Debug\Proxy.Form1.resources
+F:\Book\C# 2010 Network\Source\03\3-11\Proxy\Proxy\obj\x86\Debug\Proxy.Properties.Resources.resources
+F:\Book\C# 2010 Network\Source\03\3-11\Proxy\Proxy\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Book\C# 2010 Network\Source\03\3-11\Proxy\Proxy\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Book\C# 2010 Network\Source\03\3-11\Proxy\Proxy\obj\x86\Debug\Proxy.exe
+F:\Book\C# 2010 Network\Source\03\3-11\Proxy\Proxy\obj\x86\Debug\Proxy.pdb

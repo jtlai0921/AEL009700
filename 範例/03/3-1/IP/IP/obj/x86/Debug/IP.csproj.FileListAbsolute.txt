@@ -1,0 +1,9 @@
+F:\Book\C# 2010 Network\Source\03\3-1\IP\IP\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\03\3-1\IP\IP\obj\x86\Debug\IP.Form1.resources
+F:\Book\C# 2010 Network\Source\03\3-1\IP\IP\obj\x86\Debug\IP.Properties.Resources.resources
+F:\Book\C# 2010 Network\Source\03\3-1\IP\IP\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Book\C# 2010 Network\Source\03\3-1\IP\IP\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Book\C# 2010 Network\Source\03\3-1\IP\IP\bin\Debug\IP.exe
+F:\Book\C# 2010 Network\Source\03\3-1\IP\IP\bin\Debug\IP.pdb
+F:\Book\C# 2010 Network\Source\03\3-1\IP\IP\obj\x86\Debug\IP.exe
+F:\Book\C# 2010 Network\Source\03\3-1\IP\IP\obj\x86\Debug\IP.pdb

@@ -1,0 +1,13 @@
+F:\Book\C# 2010 Network\Source\17\17-4\PeopleNearMe\PeopleNearMe\bin\Debug\PeopleNearMe.exe
+F:\Book\C# 2010 Network\Source\17\17-4\PeopleNearMe\PeopleNearMe\bin\Debug\PeopleNearMe.pdb
+F:\Book\C# 2010 Network\Source\17\17-4\PeopleNearMe\PeopleNearMe\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\17\17-4\PeopleNearMe\PeopleNearMe\obj\x86\Debug\MainWindow.baml
+F:\Book\C# 2010 Network\Source\17\17-4\PeopleNearMe\PeopleNearMe\obj\x86\Debug\MainWindow.g.cs
+F:\Book\C# 2010 Network\Source\17\17-4\PeopleNearMe\PeopleNearMe\obj\x86\Debug\App.g.cs
+F:\Book\C# 2010 Network\Source\17\17-4\PeopleNearMe\PeopleNearMe\obj\x86\Debug\PeopleNearMe_MarkupCompile.cache
+F:\Book\C# 2010 Network\Source\17\17-4\PeopleNearMe\PeopleNearMe\obj\x86\Debug\PeopleNearMe.g.resources
+F:\Book\C# 2010 Network\Source\17\17-4\PeopleNearMe\PeopleNearMe\obj\x86\Debug\PeopleNearMe.Properties.Resources.resources
+F:\Book\C# 2010 Network\Source\17\17-4\PeopleNearMe\PeopleNearMe\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Book\C# 2010 Network\Source\17\17-4\PeopleNearMe\PeopleNearMe\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Book\C# 2010 Network\Source\17\17-4\PeopleNearMe\PeopleNearMe\obj\x86\Debug\PeopleNearMe.exe
+F:\Book\C# 2010 Network\Source\17\17-4\PeopleNearMe\PeopleNearMe\obj\x86\Debug\PeopleNearMe.pdb

@@ -1,0 +1,5 @@
+F:\Book\C# 2010 Network\Source\14\14-2\NegotiateClient\NegotiateClient\bin\Debug\NegotiateClient.exe
+F:\Book\C# 2010 Network\Source\14\14-2\NegotiateClient\NegotiateClient\bin\Debug\NegotiateClient.pdb
+F:\Book\C# 2010 Network\Source\14\14-2\NegotiateClient\NegotiateClient\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\14\14-2\NegotiateClient\NegotiateClient\obj\x86\Debug\NegotiateClient.exe
+F:\Book\C# 2010 Network\Source\14\14-2\NegotiateClient\NegotiateClient\obj\x86\Debug\NegotiateClient.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientSocket", "ClientSocket\ClientSocket.csproj", "{1A7801B6-2DB0-40D1-8FCA-0C3B14FB6B3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A7801B6-2DB0-40D1-8FCA-0C3B14FB6B3F}.Debug|x86.ActiveCfg = Debug|x86
+		{1A7801B6-2DB0-40D1-8FCA-0C3B14FB6B3F}.Debug|x86.Build.0 = Debug|x86
+		{1A7801B6-2DB0-40D1-8FCA-0C3B14FB6B3F}.Release|x86.ActiveCfg = Release|x86
+		{1A7801B6-2DB0-40D1-8FCA-0C3B14FB6B3F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

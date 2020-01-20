@@ -1,0 +1,9 @@
+F:\Book\C# 2010 Network\Source\13\13-1\PingHost\PingHost\bin\Debug\PingHost.exe
+F:\Book\C# 2010 Network\Source\13\13-1\PingHost\PingHost\bin\Debug\PingHost.pdb
+F:\Book\C# 2010 Network\Source\13\13-1\PingHost\PingHost\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\13\13-1\PingHost\PingHost\obj\x86\Debug\PingHost.Form1.resources
+F:\Book\C# 2010 Network\Source\13\13-1\PingHost\PingHost\obj\x86\Debug\PingHost.Properties.Resources.resources
+F:\Book\C# 2010 Network\Source\13\13-1\PingHost\PingHost\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Book\C# 2010 Network\Source\13\13-1\PingHost\PingHost\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Book\C# 2010 Network\Source\13\13-1\PingHost\PingHost\obj\x86\Debug\PingHost.exe
+F:\Book\C# 2010 Network\Source\13\13-1\PingHost\PingHost\obj\x86\Debug\PingHost.pdb

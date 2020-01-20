@@ -1,0 +1,9 @@
+F:\Book\C# 2010 Network\Source\03\3-8\Cookie\Cookie\bin\Debug\Cookie.exe
+F:\Book\C# 2010 Network\Source\03\3-8\Cookie\Cookie\bin\Debug\Cookie.pdb
+F:\Book\C# 2010 Network\Source\03\3-8\Cookie\Cookie\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\03\3-8\Cookie\Cookie\obj\x86\Debug\Cookie.Form1.resources
+F:\Book\C# 2010 Network\Source\03\3-8\Cookie\Cookie\obj\x86\Debug\Cookie.Properties.Resources.resources
+F:\Book\C# 2010 Network\Source\03\3-8\Cookie\Cookie\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Book\C# 2010 Network\Source\03\3-8\Cookie\Cookie\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Book\C# 2010 Network\Source\03\3-8\Cookie\Cookie\obj\x86\Debug\Cookie.exe
+F:\Book\C# 2010 Network\Source\03\3-8\Cookie\Cookie\obj\x86\Debug\Cookie.pdb

@@ -1,0 +1,9 @@
+F:\Book\C# 2010 Network\Source\07\7-2\SMTPClient\SMTPClient\bin\Debug\SMTPClient.exe
+F:\Book\C# 2010 Network\Source\07\7-2\SMTPClient\SMTPClient\bin\Debug\SMTPClient.pdb
+F:\Book\C# 2010 Network\Source\07\7-2\SMTPClient\SMTPClient\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\07\7-2\SMTPClient\SMTPClient\obj\x86\Debug\SMTPClient.Form1.resources
+F:\Book\C# 2010 Network\Source\07\7-2\SMTPClient\SMTPClient\obj\x86\Debug\SMTPClient.Properties.Resources.resources
+F:\Book\C# 2010 Network\Source\07\7-2\SMTPClient\SMTPClient\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Book\C# 2010 Network\Source\07\7-2\SMTPClient\SMTPClient\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Book\C# 2010 Network\Source\07\7-2\SMTPClient\SMTPClient\obj\x86\Debug\SMTPClient.exe
+F:\Book\C# 2010 Network\Source\07\7-2\SMTPClient\SMTPClient\obj\x86\Debug\SMTPClient.pdb

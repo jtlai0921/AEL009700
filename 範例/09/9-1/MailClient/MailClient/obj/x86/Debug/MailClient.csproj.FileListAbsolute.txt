@@ -1,0 +1,10 @@
+F:\Book\C# 2010 Network\Source\09\9-3\MailClient\MailClient\bin\Debug\MailClient.exe
+F:\Book\C# 2010 Network\Source\09\9-3\MailClient\MailClient\bin\Debug\MailClient.pdb
+F:\Book\C# 2010 Network\Source\09\9-3\MailClient\MailClient\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\09\9-3\MailClient\MailClient\obj\x86\Debug\MailClient.exe
+F:\Book\C# 2010 Network\Source\09\9-3\MailClient\MailClient\obj\x86\Debug\MailClient.pdb
+F:\Book\C# 2010 Network\Source\09\9-1\MailClient\MailClient\obj\x86\Debug\MailClient.exe
+F:\Book\C# 2010 Network\Source\09\9-1\MailClient\MailClient\obj\x86\Debug\MailClient.pdb
+F:\Book\C# 2010 Network\Source\09\9-1\MailClient\MailClient\bin\Debug\MailClient.exe
+F:\Book\C# 2010 Network\Source\09\9-1\MailClient\MailClient\bin\Debug\MailClient.pdb
+F:\Book\C# 2010 Network\Source\09\9-1\MailClient\MailClient\obj\x86\Debug\ResolveAssemblyReference.cache

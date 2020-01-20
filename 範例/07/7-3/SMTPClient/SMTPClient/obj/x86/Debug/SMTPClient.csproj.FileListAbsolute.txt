@@ -1,0 +1,10 @@
+F:\Book\C# 2010 Network\Source\07\7-1\SMTPClient\SMTPClient\bin\Debug\SMTPClient.exe
+F:\Book\C# 2010 Network\Source\07\7-1\SMTPClient\SMTPClient\bin\Debug\SMTPClient.pdb
+F:\Book\C# 2010 Network\Source\07\7-1\SMTPClient\SMTPClient\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\07\7-1\SMTPClient\SMTPClient\obj\x86\Debug\SMTPClient.exe
+F:\Book\C# 2010 Network\Source\07\7-1\SMTPClient\SMTPClient\obj\x86\Debug\SMTPClient.pdb
+F:\Book\C# 2010 Network\Source\07\7-3\SMTPClient\SMTPClient\obj\x86\Debug\SMTPClient.exe
+F:\Book\C# 2010 Network\Source\07\7-3\SMTPClient\SMTPClient\obj\x86\Debug\SMTPClient.pdb
+F:\Book\C# 2010 Network\Source\07\7-3\SMTPClient\SMTPClient\bin\Debug\SMTPClient.exe
+F:\Book\C# 2010 Network\Source\07\7-3\SMTPClient\SMTPClient\bin\Debug\SMTPClient.pdb
+F:\Book\C# 2010 Network\Source\07\7-3\SMTPClient\SMTPClient\obj\x86\Debug\ResolveAssemblyReference.cache

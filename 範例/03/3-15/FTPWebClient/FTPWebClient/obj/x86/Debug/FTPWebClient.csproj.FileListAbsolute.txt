@@ -1,0 +1,9 @@
+F:\Book\C# 2010 Network\Source\03\3-15\FTPWebClient\FTPWebClient\bin\Debug\FTPWebClient.exe
+F:\Book\C# 2010 Network\Source\03\3-15\FTPWebClient\FTPWebClient\bin\Debug\FTPWebClient.pdb
+F:\Book\C# 2010 Network\Source\03\3-15\FTPWebClient\FTPWebClient\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\03\3-15\FTPWebClient\FTPWebClient\obj\x86\Debug\FTPWebClient.Form1.resources
+F:\Book\C# 2010 Network\Source\03\3-15\FTPWebClient\FTPWebClient\obj\x86\Debug\FTPWebClient.Properties.Resources.resources
+F:\Book\C# 2010 Network\Source\03\3-15\FTPWebClient\FTPWebClient\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Book\C# 2010 Network\Source\03\3-15\FTPWebClient\FTPWebClient\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Book\C# 2010 Network\Source\03\3-15\FTPWebClient\FTPWebClient\obj\x86\Debug\FTPWebClient.exe
+F:\Book\C# 2010 Network\Source\03\3-15\FTPWebClient\FTPWebClient\obj\x86\Debug\FTPWebClient.pdb

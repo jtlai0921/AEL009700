@@ -1,0 +1,15 @@
+F:\Book\C# 2010 Network\Source\06\6-1\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe
+F:\Book\C# 2010 Network\Source\06\6-1\ClientSocket\ClientSocket\bin\Debug\ClientSocket.pdb
+F:\Book\C# 2010 Network\Source\06\6-1\ClientSocket\ClientSocket\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\06\6-1\ClientSocket\ClientSocket\obj\x86\Debug\ClientSocket.exe
+F:\Book\C# 2010 Network\Source\06\6-1\ClientSocket\ClientSocket\obj\x86\Debug\ClientSocket.pdb
+F:\Book\C# 2010 Network\Source\06\6-3\ClientSocket\ClientSocket\obj\x86\Debug\ClientSocket.exe
+F:\Book\C# 2010 Network\Source\06\6-3\ClientSocket\ClientSocket\obj\x86\Debug\ClientSocket.pdb
+F:\Book\C# 2010 Network\Source\06\6-3\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe
+F:\Book\C# 2010 Network\Source\06\6-3\ClientSocket\ClientSocket\bin\Debug\ClientSocket.pdb
+F:\Book\C# 2010 Network\Source\06\6-3\ClientSocket\ClientSocket\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\06\6-7\ClientSocket\ClientSocket\obj\x86\Debug\ClientSocket.exe
+F:\Book\C# 2010 Network\Source\06\6-7\ClientSocket\ClientSocket\obj\x86\Debug\ClientSocket.pdb
+F:\Book\C# 2010 Network\Source\06\6-7\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe
+F:\Book\C# 2010 Network\Source\06\6-7\ClientSocket\ClientSocket\bin\Debug\ClientSocket.pdb
+F:\Book\C# 2010 Network\Source\06\6-7\ClientSocket\ClientSocket\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+F:\Book\C# 2010 Network\Source\15\15-5\RemoteDesktop\RemoteDesktop\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\15\15-5\RemoteDesktop\RemoteDesktop\obj\x86\Debug\RemoteDesktop.frmHost.resources
+F:\Book\C# 2010 Network\Source\15\15-5\RemoteDesktop\RemoteDesktop\obj\x86\Debug\RemoteDesktop.MainForm.resources
+F:\Book\C# 2010 Network\Source\15\15-5\RemoteDesktop\RemoteDesktop\obj\x86\Debug\RemoteDesktop.Properties.Resources.resources
+F:\Book\C# 2010 Network\Source\15\15-5\RemoteDesktop\RemoteDesktop\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Book\C# 2010 Network\Source\15\15-5\RemoteDesktop\RemoteDesktop\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Book\C# 2010 Network\Source\15\15-5\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.exe
+F:\Book\C# 2010 Network\Source\15\15-5\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.pdb
+F:\Book\C# 2010 Network\Source\15\15-5\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteControl.dll
+F:\Book\C# 2010 Network\Source\15\15-5\RemoteDesktop\RemoteDesktop\obj\x86\Debug\RemoteDesktop.exe
+F:\Book\C# 2010 Network\Source\15\15-5\RemoteDesktop\RemoteDesktop\obj\x86\Debug\RemoteDesktop.pdb

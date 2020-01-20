@@ -1,0 +1,10 @@
+F:\Book\C# 2010 Network\Source\10\10-1\FTPServer\FTPServer\bin\Debug\FTPServer.exe
+F:\Book\C# 2010 Network\Source\10\10-1\FTPServer\FTPServer\bin\Debug\FTPServer.pdb
+F:\Book\C# 2010 Network\Source\10\10-1\FTPServer\FTPServer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\10\10-1\FTPServer\FTPServer\obj\x86\Debug\FTPServer.exe
+F:\Book\C# 2010 Network\Source\10\10-1\FTPServer\FTPServer\obj\x86\Debug\FTPServer.pdb
+F:\Book\C# 2010 Network\Source\10\10-2\FTPServer\FTPServer\obj\x86\Debug\FTPServer.exe
+F:\Book\C# 2010 Network\Source\10\10-2\FTPServer\FTPServer\obj\x86\Debug\FTPServer.pdb
+F:\Book\C# 2010 Network\Source\10\10-2\FTPServer\FTPServer\bin\Debug\FTPServer.exe
+F:\Book\C# 2010 Network\Source\10\10-2\FTPServer\FTPServer\bin\Debug\FTPServer.pdb
+F:\Book\C# 2010 Network\Source\10\10-2\FTPServer\FTPServer\obj\x86\Debug\ResolveAssemblyReference.cache

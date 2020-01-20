@@ -1,0 +1,5 @@
+F:\Book\C# 2010 Network\Source\14\14-4\SSLClient\SSLClient\bin\Debug\SSLClient.exe
+F:\Book\C# 2010 Network\Source\14\14-4\SSLClient\SSLClient\bin\Debug\SSLClient.pdb
+F:\Book\C# 2010 Network\Source\14\14-4\SSLClient\SSLClient\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Book\C# 2010 Network\Source\14\14-4\SSLClient\SSLClient\obj\x86\Debug\SSLClient.exe
+F:\Book\C# 2010 Network\Source\14\14-4\SSLClient\SSLClient\obj\x86\Debug\SSLClient.pdb
